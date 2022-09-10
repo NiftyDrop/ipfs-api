@@ -1,10 +1,10 @@
 {
-    "name": "openwse/ipfs-api",
+    "name": "niftydrop/ipfs-api",
     "type": "library",
     "authors": [
         {
-            "name": "openwse",
-            "email": "openwse@gmail.com"
+            "name": "NiftyDrop",
+            "email": "niftydrop@gmail.com"
         }
     ],
     "description": "A minimal implementation of IPFS API",
@@ -14,7 +14,7 @@
         "api",
         "decentralized"
     ],
-    "homepage": "https://github.com/openwse/ipfs-api",
+    "homepage": "https://github.com/NiftyDrop/ipfs-api",
     "license": "MIT",
     "require": {
         "php": "^8.0",
